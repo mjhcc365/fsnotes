@@ -1,0 +1,8 @@
+[core]
+	repositoryformatversion = 0
+	filemode = true
+	bare = false
+	logallrefupdates = true
+	worktree = /Users/huziyin/Documents/FSNotes
+	ignorecase = true
+	precomposeunicode = true
